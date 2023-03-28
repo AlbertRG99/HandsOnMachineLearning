@@ -33,12 +33,12 @@ El contenido está estructurado en dos partes.
 * Construyendo y entrenando redes neuronales usando TensorFlow y Keras
 
 * Las arquitecturas de redes neuronales más importantes: 
-- redes neuronales de alimentación para datos tabulares
-- redes convolucionales para visión por ordenador
-- redes recurrentes y redes de memoria a corto plazo largo (LSTM) para el procesamiento de secuencias
-- codificadores-decodificadores y transformadores para el procesamiento del lenguaje natural (¡y más!)
-- autocodificadores (**auto-encoders**)
-- redes adversarias generativa (**GANs**)
+    - redes neuronales de alimentación para datos tabulares
+    - redes convolucionales para visión por ordenador
+    - redes recurrentes y redes de memoria a corto plazo largo (LSTM) para el procesamiento de secuencias
+    - codificadores-decodificadores y transformadores para el procesamiento del lenguaje natural (¡y más!)
+    - autocodificadores (**auto-encoders**)
+    - redes adversarias generativa (**GANs**)
 
 * Técnicas para entrenar redes neuronales profundas (**Deep Learning**)
 
