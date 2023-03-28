@@ -1,10 +1,10 @@
 # Hoja de ruta
 
-El libro está estructurado en dos partes.
+El contenido está estructurado en dos partes.
 
 ## Parte I: Fundamentos del aprendizaje automático
 
-* Qué es el aprendizaje automático, qué problemas intenta resolver y las principales categorías y conceptos fundamentales de sus sistemas?
+* Qué es el aprendizaje automático, qué problemas intenta resolver y las principales categorías, y conceptos fundamentales de sus sistemas?
 
 * Los pasos de un proyecto típico de aprendizaje automático
 
@@ -20,9 +20,9 @@ El libro está estructurado en dos partes.
 
 * Los desafíos del aprendizaje automático, en particular el ajuste insuficiente y el sobreajuste (la compensación sesgo/varianza)
 
-* Los algoritmos de aprendizaje más comunes: regresión lineal y polinómica, regresión logística, vecinos más cercanos, máquinas vectoriales de apoyo, árboles de decisión, bosques aleatorios y métodos de conjunto
+* Los algoritmos de aprendizaje más comunes: regresión lineal y polinómica, regresión logística, vecinos más cercanos (**KNN**), máquinas de soporte vectorial (**SVM**), árboles de decisión, bosques aleatorios (**Random Forest**) y métodos de conjunto
 
-* Reducir la dimensionalidad de los datos de entrenamiento para luchar contra la "maldición de la dimensionalidad"
+* Reducir la dimensionalidad de los datos de entrenamiento para luchar contra la **"maldición de la dimensionalidad"**
 
 * Otras técnicas de aprendizaje sin supervisión, como la agrupación, la estimación de la densidad y la detección de anomalías
 
@@ -32,9 +32,15 @@ El libro está estructurado en dos partes.
 
 * Construyendo y entrenando redes neuronales usando TensorFlow y Keras
 
-* Las arquitecturas de redes neuronales más importantes: redes neuronales de alimentación para datos tabulares, redes convolucionales para visión por ordenador, redes recurrentes y redes de memoria a corto plazo largo (LSTM) para el procesamiento de secuencias, codificadores-decodificadores y transformadores para el procesamiento del lenguaje natural (¡y más!), autocodificadores, redes adversarias generativa
+* Las arquitecturas de redes neuronales más importantes: 
+- redes neuronales de alimentación para datos tabulares
+- redes convolucionales para visión por ordenador
+- redes recurrentes y redes de memoria a corto plazo largo (LSTM) para el procesamiento de secuencias
+- codificadores-decodificadores y transformadores para el procesamiento del lenguaje natural (¡y más!)
+- autocodificadores (**auto-encoders**)
+- redes adversarias generativa (**GANs**)
 
-* Técnicas para entrenar redes neuronales profundas
+* Técnicas para entrenar redes neuronales profundas (**Deep Learning**)
 
 * Cómo construir un agente (por ejemplo, un bot en un juego) que pueda aprender buenas estrategias a través de prueba y error, utilizando el aprendizaje por refuerzo
 
