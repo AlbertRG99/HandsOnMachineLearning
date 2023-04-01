@@ -1,0 +1,19 @@
+1. ¿Cómo definirías el aprendizaje automático?
+2. ¿Puedes nombrar cuatro tipos de aplicaciones en las que brilla?
+3. ¿Qué es un conjunto de entrenamiento etiquetado?
+4. ¿Cuáles son las dos tareas supervisadas más comunes?
+5. ¿Puedes nombrar cuatro tareas comunes sin supervisión?
+6. ¿Qué tipo de algoritmo usarías para permitir que un robot camine en varios terrenos desconocidos?
+7. ¿Qué tipo de algoritmo usarías para segmentar a tus clientes en varios grupos?
+8. ¿Enmarcarías el problema de la detección de spam como un problema de aprendizaje supervisado o un problema de aprendizaje no supervisado?
+9. ¿Qué es un sistema de aprendizaje en línea?
+10. ¿Qué es el aprendizaje fuera de lo básico?
+11. ¿Qué tipo de algoritmo se basa en una medida de similitud para hacer predicciones?
+12. ¿Cuál es la diferencia entre un parámetro de modelo y un hiperparámetro de modelo?
+13. ¿Qué buscan los algoritmos basados en modelos? ¿Cuál es la estrategia más común que utilizan para tener éxito? ¿Cómo hacen predicciones?
+14. ¿Puedes nombrar cuatro de los principales desafíos del aprendizaje automático?
+15. Si su modelo funciona bien en los datos de entrenamiento, pero se generaliza mal a nuevas instancias, ¿qué está pasando? ¿Puedes nombrar tres posibles soluciones?
+16. ¿Qué es un conjunto de pruebas y por qué querrías usarlo?
+17. ¿Cuál es el propósito de un conjunto de validación?
+18. ¿Qué es el conjunto de desarrollo del tren, cuándo lo necesitas y cómo lo usas?
+19. ¿Qué puede pasar mal si ajustas los hiperparámetros usando el conjunto de pruebas?
