@@ -1,0 +1,1 @@
+GridSearch es un módulo de Scikit-Learn que nos permite entrenar diferentes modelos sobre los mismos datos y obtener el que mejor se adapta a ellos de forma automática.
